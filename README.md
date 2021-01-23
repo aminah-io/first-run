@@ -1,0 +1,1 @@
+### A simple and primitive Todo App made with React Native
